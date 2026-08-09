@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-6ji67g.chevy-plancota.top/sitemap.xml
